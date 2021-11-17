@@ -1,0 +1,3 @@
+[submodule "sub-p"]
+	path = sub-p
+	url = git@github.com:hiro0308/sub-p.git
